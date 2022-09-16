@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 3.6.0 (2022-09-16)
+
+
+### Bug Fixes
+
+* 修复类型问题 ([c194f3c](https://github.com/molunhui/taro-code/commit/c194f3c69ff749dc3276f986fdb25ec21d73fea8))
+
+
+### Features
+
+* add Barcode & QRCode custom style ([#22](https://github.com/molunhui/taro-code/issues/22)) ([862db8b](https://github.com/molunhui/taro-code/commit/862db8b201538ff9972156b3e0f21e5db72d97a3))
+* add foregroundColor, backgroundColor ([#37](https://github.com/molunhui/taro-code/issues/37)) ([f0ced87](https://github.com/molunhui/taro-code/commit/f0ced8728181c298cc44fec110d388666a1b3092))
+* pass through ImageProps ([6e3afc4](https://github.com/molunhui/taro-code/commit/6e3afc4d0aebf1c0c15fdf751131635649b143b4))
+* taro-3.0 ([#21](https://github.com/molunhui/taro-code/issues/21)) ([e9822a2](https://github.com/molunhui/taro-code/commit/e9822a26a0dd3d940753b6d12b91193a252f3f0a))
+
+
+
+
+
 ## [3.5.2](https://github.com/Miaonster/taro-code/compare/v3.5.0...v3.5.2) (2022-04-01)
 
 

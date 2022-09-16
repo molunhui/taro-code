@@ -3,6 +3,36 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 3.6.0 (2022-09-16)
+
+
+### Bug Fixes
+
+* 修复类型问题 ([c194f3c](https://github.com/molunhui/taro-code/commit/c194f3c69ff749dc3276f986fdb25ec21d73fea8))
+* update qrcode import path ([#10](https://github.com/molunhui/taro-code/issues/10)) ([704c12a](https://github.com/molunhui/taro-code/commit/704c12a7722e7d7b4345323b068613e4985a6288))
+* update version script ([c86a443](https://github.com/molunhui/taro-code/commit/c86a443a3fdf8faf21370b5b2c37bec385712c50))
+* **barcode/qrcode:** all props should trigger hooks ([272417e](https://github.com/molunhui/taro-code/commit/272417e58d086269b97903237a32ec868a4ba9e7))
+* **package.json:** update scripts ([#9](https://github.com/molunhui/taro-code/issues/9)) ([ab242fe](https://github.com/molunhui/taro-code/commit/ab242fed426b7fe7083eccdafcc7716602e0f251))
+
+
+### Features
+
+* 支持长按识别二维码 fix [#56](https://github.com/molunhui/taro-code/issues/56) ([#57](https://github.com/molunhui/taro-code/issues/57)) ([3cc55d4](https://github.com/molunhui/taro-code/commit/3cc55d4e649f187adedf2a614f125fb92fa2b1bc))
+* add Barcode & QRCode custom style ([#22](https://github.com/molunhui/taro-code/issues/22)) ([862db8b](https://github.com/molunhui/taro-code/commit/862db8b201538ff9972156b3e0f21e5db72d97a3))
+* add foregroundColor, backgroundColor ([#37](https://github.com/molunhui/taro-code/issues/37)) ([f0ced87](https://github.com/molunhui/taro-code/commit/f0ced8728181c298cc44fec110d388666a1b3092))
+* add test files & fix 40+ text qrcode ([804de72](https://github.com/molunhui/taro-code/commit/804de72eec2a25fd7dfbef9a0d972fa3136369ab)), closes [#13](https://github.com/molunhui/taro-code/issues/13)
+* fix className ([77654a1](https://github.com/molunhui/taro-code/commit/77654a1c3dae1dd7ead687bbdb2fdbbe168c00ff))
+* pass through ImageProps ([6e3afc4](https://github.com/molunhui/taro-code/commit/6e3afc4d0aebf1c0c15fdf751131635649b143b4))
+* taro-3.0 ([#21](https://github.com/molunhui/taro-code/issues/21)) ([e9822a2](https://github.com/molunhui/taro-code/commit/e9822a26a0dd3d940753b6d12b91193a252f3f0a))
+* update doc ([#38](https://github.com/molunhui/taro-code/issues/38)) ([a37d9d3](https://github.com/molunhui/taro-code/commit/a37d9d3a4a2cabb6d925317ebd25c1c4ed1a9a57))
+* upgrade taro to 2.0.7 ([c3fd489](https://github.com/molunhui/taro-code/commit/c3fd4898351333fa3e03f95aed1a38ceae09d772))
+* upgrade taro-code to 2.2.3 ([351dd81](https://github.com/molunhui/taro-code/commit/351dd81c5c25efa2840b2ab2f88bc425be1e9ab8))
+* **test:** add jest config file ([#8](https://github.com/molunhui/taro-code/issues/8)) ([e10fd8c](https://github.com/molunhui/taro-code/commit/e10fd8c57285bcc3980fae7cc4d702cdef0601de))
+
+
+
+
+
 ## [3.5.2](https://github.com/Miaonster/taro-code/compare/v3.5.0...v3.5.2) (2022-04-01)
 
 

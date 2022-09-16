@@ -1,6 +1,6 @@
 {
   "name": "@yzfe/taro-code",
-  "version": "3.5.2",
+  "version": "3.6.0",
   "description": "Taro.js barcode & qrcode",
   "browser": "dist/index.umd.js",
   "module": "dist/index.esm.js",
@@ -81,8 +81,8 @@
     "enzyme-to-json": "^3.6.2",
     "jest": "^26.4.1",
     "nervjs": "^1.5.7",
-    "rimraf": "^3.0.2",
     "react-test-renderer": "17.0.2",
+    "rimraf": "^3.0.2",
     "rollup": "^2.26.4",
     "rollup-plugin-copy": "^3.3.0",
     "rollup-plugin-dts": "^3.0.2",
@@ -96,7 +96,5 @@
     "@tarojs/react": ">=3",
     "react": ">=17.0.0",
     "react-dom": ">=17.0.0"
-  },
-  "dependencies": {
   }
 }
