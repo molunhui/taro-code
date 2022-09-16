@@ -1,5 +1,5 @@
 {
-  "name": "taro-code",
+  "name": "@yzfe/taro-code",
   "version": "3.5.2",
   "description": "Taro.js barcode & qrcode",
   "browser": "dist/index.umd.js",
@@ -21,6 +21,10 @@
     "test:analyze": "rollup --config ./config/rollup.config.analyze.js",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "clean": "rimraf .temp dist lib coverage"
+  },
+  "publishConfig": {
+    "registry": "https://npm.yzops.net",
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -78,6 +82,7 @@
     "jest": "^26.4.1",
     "nervjs": "^1.5.7",
     "rimraf": "^3.0.2",
+    "react-test-renderer": "17.0.2",
     "rollup": "^2.26.4",
     "rollup-plugin-copy": "^3.3.0",
     "rollup-plugin-dts": "^3.0.2",
@@ -93,6 +98,5 @@
     "react-dom": ">=17.0.0"
   },
   "dependencies": {
-    "react-test-renderer": "^17.0.2"
   }
 }
